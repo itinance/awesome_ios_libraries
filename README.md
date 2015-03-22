@@ -5,6 +5,6 @@
 - GPU Image: https://github.com/BradLarson/GPUImage
 - Fontawesom-iOS: https://github.com/alexdrone/ios-fontawesome
 - SGImageCache: https://github.com/seatgeek/SGImageCache
-
+- LTNavigationBar: https://github.com/ltebean/LTNavigationBar
 
 (to be continued)
