@@ -1,5 +1,6 @@
 # Awesome iOS Libraries
 
+- SWRevealViewController: https://github.com/John-Lluch/SWRevealViewController
 - Sphere Menu: https://github.com/itouch2/SphereMenu
 - Photo Tweaks: https://github.com/itouch2/PhotoTweaks
 - GPU Image: https://github.com/BradLarson/GPUImage
